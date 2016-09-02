@@ -214,7 +214,9 @@
 
 ------
 <div id='id-section1'/>
-### Page 1: 2016-07-08.  test
+### Page 1: 2016-09-02: Starting online Notebook!!!!!
+   
+A few notes: to start a new line (in the online version of github, make sure to have three spaces after your header (the header being the date and title listed above); Also here is an AWESOME rmarkdown cheatsheet reference = https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf.
 
 
 ------
