@@ -1,12 +1,14 @@
-#Species responses to climate change
+#Effects of Climate Change on Consumer Stoichiometry and Nutrient Storage in Terrestrial Forests
 
 ### Author: Katie A. Miller    
 ###Affiliation: Department of Biology, University of Vermont
 
 ## Projects title/descriptions
+###Geographic variation in stoichiometry of a social insect (Project#1)
+###Climate change impacts on consumer-resource stoichiometry in terrestrial forests
 
-## Date started:
-## Date end:
+## Date started: September 2016
+## Date end: ongoing
 
 
 # Table of contents (for 200 entries)    
