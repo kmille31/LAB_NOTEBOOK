@@ -219,7 +219,7 @@
 <div id='id-section1'/>    
 ​    
 
-### Page 1: 2016-07-08.  test      
+### Page 1: 2017-03-30. Re-starting Lab Notebook      
 
 
 
@@ -227,7 +227,7 @@
 
 <div id='id-section2'/>    
 ​    
-### Page 2: 2016-06-16 title        
+### Page 2: 2017-03-30 Summary of projects and next steps        
 
 ------
 
