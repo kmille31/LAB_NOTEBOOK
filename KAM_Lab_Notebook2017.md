@@ -225,14 +225,20 @@
 
 ------
 
+
+
 <div id='id-section2'/>    
 ​    
+
 ### Page 2: 2017-03-30 Summary of projects and next steps        
 
 ------
 
+
+
 <div id='id-section3'/>    
 ​    
+
 ### Page 3:  
 
 ------
