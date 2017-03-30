@@ -11,7 +11,7 @@
 
 # Table of contents (for 200 entries)    
 * [Page 1:   2017-03-30](#id-section1). Re-starting Lab Notebook
-* [Page 2:   2016-6-16](#id-section2). Title 3
+* [Page 2:   2017-03-30](#id-section2). Title 3
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
 * [Page 5:  ](#id-section5).
@@ -214,8 +214,11 @@
 
 ------
 
+
+
 <div id='id-section1'/>    
 ​    
+
 ### Page 1: 2016-07-08.  test      
 
 
