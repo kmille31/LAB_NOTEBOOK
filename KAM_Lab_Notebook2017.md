@@ -248,7 +248,49 @@ This online notebook will include relevant material from each of my main researc
 <div id='id-section2'/>    
 ​    
 
-### Page 2: 2017-03-30 Summary of projects and next steps        
+### Page 2: 2017-04-12 - To Do List: Updates on Project Progress        
+
+4/12/17
+
+To do:
+
+1.      CNP_Lat Study
+
+a.      Re-make figures and re-do analysis for CNP_Lat study – look specifically at the elemental ratios
+
+b.      Re-vise introduction
+
+c.      Fix methods
+
+d.      Draft outline for discussion
+
+e.      Draft of discussion
+
+f.       Attempt to standardize elemental data so that you can plot the data on a 9-panel(?) figure for each of the PCs for each element/ratio
+
+2.      Chamber Harvest
+
+a.      Re-look at Post et al. 2002 for determine best methods to analyze stable isotope data
+
+b.      Create summary document for main results forstable isotope data
+
+c.      Analyze body mass data (to double check resultsseen from Megna)
+
+d.      Touch base with Clint so he knows where thingsstand
+
+e.      Begin draft of methods for (full) paper – i.e.thesis version will include all body mass, demography, and elemental data,whereas the published papers may be split into two papers – one on thedemography data, and one on the elemental data. 
+
+3.      Elemental composition in Soils
+
+a.      Finish summary documents for the soil data andsend to collaborators in NC
+
+4.      Summarize information about adult socialservices for assisting mom
+
+5.      Taxes – mail checks and call the IRS
+
+6.      Finish applying for Associated EcologicalServices position
+
+7.      Apply to more jobs…
 
 ------
 
