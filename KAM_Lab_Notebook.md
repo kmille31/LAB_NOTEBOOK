@@ -218,21 +218,7 @@
 ​    
 ### Page 1: 2018-10-22. Creation of new online notebook for Manuscript Prep      
 
-Testing adding information here
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+As I make progress towards preparing full manuscripts for my two main research chapters, I plan to use this online notebook to keep track of all changes made to code, figures, text, etc.
 
 
 
@@ -243,6 +229,20 @@ Testing adding information here
 <div id='id-section2'/>    
 ​    
 ### Page 2: 2018-10-22. Setting Goals        
+
+I. Geographic Variation in Stoichiometry of a Social Insect
+
+	1. Clean up R code so that it is clear what was done for each analysis, data modification, figure prep, etc.
+	2. Outline future analyses/research to be done before tackling full manuscript prep.
+
+II. Effects of Experimental Warming on Ant Body Size, Colony Demography, and Nutritional Status
+
+1. Clean up R code so that it is clear what was done for each analysis, data modification, figure prep, etc.
+2. Outline future analyses/research to be done before tackling full manuscript prep.
+
+
+
+
 
 ------
 
