@@ -216,7 +216,25 @@
 
 <div id='id-section1'/>    
 ​    
-### Page 1: 2018-10-22.      
+### Page 1: 2018-10-22. Creation of new online notebook for Manuscript Prep      
+
+Testing adding information here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -224,7 +242,7 @@
 
 <div id='id-section2'/>    
 ​    
-### Page 2: 2016-06-16 title        
+### Page 2: 2018-10-22. Setting Goals        
 
 ------
 
