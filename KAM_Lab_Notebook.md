@@ -10,8 +10,8 @@
 
 
 # Table of contents (for 200 entries)    
-* [Page 1:   2016-06-08](#id-section1). Title of entry
-* [Page 2:   2016-6-16](#id-section2). Title 3
+* [Page 1:   2018-10-22](#id-section1). Creation of new online notebook for Manuscript Prep
+* [Page 2:   2018-10-22](#id-section2). Setting Goals
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
 * [Page 5:  ](#id-section5).
@@ -216,7 +216,7 @@
 
 <div id='id-section1'/>    
 ​    
-### Page 1: 2016-07-08.  test      
+### Page 1: 2018-10-22.      
 
 
 
