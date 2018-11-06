@@ -243,12 +243,48 @@ II. Effects of Experimental Warming on Ant Body Size, Colony Demography, and Nut
 
 
 
-
 ------
 
 <div id='id-section3'/>    
 ​    
-### Page 3:  
+### Page 3: 2018-10-28  
+
+Goal: Identify main data research files. List them here and create back-ups. 
+
+PROJECT 1: LATITUDINAL GRADIENT STUDY
+
+R-markdown file with analyses: 20170802_KM_Elemental_Analyses_CleaningItUp
+
+NOTE: RE-NAMING R-MARKDOWN FILE FOR FUTURE ANALYSES/REVISIONS: 20181030_KM_Elemental_Analyses_revised
+
+MAIN FILES:
+
+Gradient files:
+
+CN data: Latitude_CN-data_cleaned-up-8-19-16.csv
+
+P data: Latitude_P-data_cleaned-up-8-19-16.csv
+
+CN and P data combined: 20160823_combined_dataset_CN_P.csv
+
+Common Garden Files:
+
+20160826_CommonGarden_CN.csv
+
+20160826_CommonGarden_Phos.csv
+
+CN and P combined: 20160826_CG_combined_CN_P.csv
+
+Note: Full file with all data combined is (not including CG data) - 20160826_Full_Dataset_Lat_cleaned_up.csv
+
+
+
+NOTE: Tasks for cleaning up R_Markdown file include:
+
+1. Fixing graph and figure code redundancies  (i.e. extra code not needed in certain code used to produce figures, graphs, tables, etc.).
+2. Delete and/or finalize Tables actually needed for publication (i.e. there are stargazer tables in the R markdown file - are these needed?? Do they need to be modified if kept??)
+3. Delete unnecessary code for figures not used
+4. Delete unnecessary commentary highlighted in grey
 
 ------
 
